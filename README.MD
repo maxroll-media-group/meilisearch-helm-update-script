@@ -11,10 +11,10 @@ Also it was made because it's not very convinient to update meilisearch when it'
 
 This script assumes you have the following cli tools installed:
 
-kubectl (connected to the cluster that contains the meilisearch instance)
-Helm 3
-jq
-yq
+* kubectl (connected to the cluster that contains the meilisearch instance)
+* Helm 3
+* jq
+* yq
 
 It also assumes you installed Meilisearch using Helm and you are upgrading from a version newer than 1.0.0
 
